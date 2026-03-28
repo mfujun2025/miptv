@@ -466,5 +466,5 @@
     {"key":"csp_appys_v1_追剧吧", "name":"追剧吧(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_追剧吧"},
     {"key":"csp_appys_v1_追剧影院", "name":"追剧影院(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_追剧影院"},
     {"key":"csp_appys_v1_宅男影院", "name":"宅男影院(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_宅男影院"},
-    {"key":"csp_appys_v1_侦探影视", "name":"侦探影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_侦探影视"},
+    {"key":"csp_appys_v1_侦探影视", "name":"侦探影(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_侦探影视"},
     {"key":"csp_appys_v1_追影兔", "name":"追影
