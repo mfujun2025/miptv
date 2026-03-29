@@ -1,22 +1,13 @@
 {
-  "url": "https://raw.githubusercontent.com/mfujun2025/miptv/main/config.json",
-  "wallpaper": {
-    "type": "none"
-  },
+  "default": "live",
   "lives": [
     {
-      "group": "樱桃电视",
+      "group": "📺 樱桃电视专属直播",
       "channels": [
         {
-          "name": "262M直播",
+          "name": "📡 主信号源",
           "urls": [
-            "https://live.262m.com"
-          ]
-        },
-        {
-          "name": "262M影视",
-          "urls": [
-            "https://www.262m.com"
+            "https://mfujun2025.github.io/miptv/live.m3u8"
           ]
         }
       ]
@@ -25,5 +16,7 @@
   "videos": [],
   "sites": [],
   "parses": [],
-  "flags": []
+  "wallpaper": {
+    "type": "none"
+  }
 }
