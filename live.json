@@ -2,7 +2,7 @@
   "name": "miptv 综合直播源",
   "auth_mode": "mac",
   "allowed_macs": [
-    "AA:BB:CC:DD:EE:FF",
+    "FC-6D-77-45-AE-C4",
     "11:22:33:44:55:66"
   ],
   "urls": [
